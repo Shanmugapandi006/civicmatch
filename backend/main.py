@@ -6,9 +6,17 @@ import uuid
 import models
 import schemas
 import engine
-from database import engine as db_engine, Base, get_db
+from database import engine as db_engine, Base, get_db, SessionLocal
+import seed_schemes
 
 Base.metadata.create_all(bind=db_engine)
+
+# Seed the database if it's empty
+db = SessionLocal()
+if db.query(models.Scheme).count() == 0:
+    print("Database is empty. Running automatic seed...")
+    seed_schemes.seed_db()
+db.close()
 
 app = FastAPI(title="SchemeSetu API", version="1.0.0")
 
