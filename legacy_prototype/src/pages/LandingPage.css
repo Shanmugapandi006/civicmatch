@@ -1,0 +1,96 @@
+.landing-page {
+  padding: 1rem 0;
+}
+
+.header {
+  padding: 1rem;
+}
+
+.lang-select {
+  padding: 0.5rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  font-family: inherit;
+  font-size: 0.9rem;
+}
+
+.hero-section {
+  padding: 2rem 1rem;
+}
+
+.hero-title {
+  font-size: 2.5rem;
+  color: var(--color-primary);
+  margin-bottom: 1rem;
+}
+
+.hero-subtitle {
+  font-size: 1.125rem;
+  color: var(--color-text-light);
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.cta-button {
+  width: 100%;
+  max-width: 300px;
+  border-radius: var(--radius-full);
+  font-size: 1.25rem;
+  padding: 1rem;
+}
+
+.trust-signals {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.trust-badge {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--color-surface);
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius-full);
+  font-size: 0.875rem;
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--color-border);
+}
+
+.hero-visual {
+  width: 100%;
+  max-width: 400px;
+  height: 250px;
+  border-radius: var(--radius-lg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3rem;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, var(--color-primary-light) 0%, var(--color-primary) 100%);
+  color: white;
+}
+
+.mock-illustration {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 60%;
+  font-size: 3rem;
+}
+
+.connection-lines {
+  flex: 1;
+  height: 4px;
+  background: repeating-linear-gradient(90deg, white, white 10px, transparent 10px, transparent 20px);
+  opacity: 0.5;
+  margin: 0 1rem;
+}
+
+.visual-caption {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  opacity: 0.9;
+}

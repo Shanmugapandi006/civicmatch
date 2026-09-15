@@ -1,0 +1,73 @@
+.results-page {
+  padding-top: 1rem;
+}
+
+.section-title {
+  font-size: 1.25rem;
+  color: var(--color-primary);
+}
+
+.text-text-light {
+  color: var(--color-text-light);
+}
+
+.scheme-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.scheme-card.eligible::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background-color: var(--color-success);
+}
+
+.scheme-name {
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.scheme-benefit {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--color-secondary);
+  margin-bottom: 0.5rem;
+}
+
+.scheme-reason {
+  font-size: 0.9rem;
+  color: var(--color-text-light);
+}
+
+.w-full {
+  width: 100%;
+}
+
+.gap-explanation {
+  font-size: 0.9rem;
+  background-color: var(--color-warning-bg);
+  padding: 0.5rem;
+  border-radius: var(--radius-sm);
+  color: var(--color-warning);
+  display: inline-block;
+}
+
+.gap-label {
+  font-weight: 700;
+}
+
+.opacity-70 {
+  opacity: 0.7;
+}
+
+.bg-background {
+  background-color: var(--color-background);
+}
+
+.border-border {
+  border-color: var(--color-border);
+}

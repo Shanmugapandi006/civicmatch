@@ -1,0 +1,3702 @@
+[
+  {
+    "scheme_id": "SCH001",
+    "scheme_name": "PM-KISAN Samman Nidhi",
+    "issuing_authority": "Ministry of Department 1",
+    "category": "Health & Wellness",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 1 providing financial or in-kind assistance.",
+    "benefit_amount": "₹7000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH002",
+    "scheme_name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "issuing_authority": "Ministry of Department 2",
+    "category": "Housing & Shelter",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 2 providing financial or in-kind assistance.",
+    "benefit_amount": "₹2000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH003",
+    "scheme_name": "Government Scheme 3 (Banking)",
+    "issuing_authority": "Ministry of Department 3",
+    "category": "Banking, Financial Services & Insurance",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 3 providing financial or in-kind assistance.",
+    "benefit_amount": "₹3000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH004",
+    "scheme_name": "Government Scheme 4 (Skills & Employment)",
+    "issuing_authority": "Ministry of Department 4",
+    "category": "Skills & Employment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 4 providing financial or in-kind assistance.",
+    "benefit_amount": "₹1000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH005",
+    "scheme_name": "Government Scheme 5 (Social Welfare & Empowerment)",
+    "issuing_authority": "Ministry of Department 5",
+    "category": "Social Welfare & Empowerment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 5 providing financial or in-kind assistance.",
+    "benefit_amount": "₹7000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH006",
+    "scheme_name": "Government Scheme 6 (Women and Child)",
+    "issuing_authority": "Ministry of Department 6",
+    "category": "Women and Child",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 6 providing financial or in-kind assistance.",
+    "benefit_amount": "₹3000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH007",
+    "scheme_name": "Government Scheme 7 (Education & Learning)",
+    "issuing_authority": "Ministry of Department 7",
+    "category": "Education & Learning",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 7 providing financial or in-kind assistance.",
+    "benefit_amount": "₹2000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH008",
+    "scheme_name": "Government Scheme 8 (Business & Entrepreneurship)",
+    "issuing_authority": "Ministry of Department 8",
+    "category": "Business & Entrepreneurship",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 8 providing financial or in-kind assistance.",
+    "benefit_amount": "₹3000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH009",
+    "scheme_name": "Government Scheme 9 (Utility & Sanitation / Others)",
+    "issuing_authority": "Ministry of Department 9",
+    "category": "Utility & Sanitation / Others",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 9 providing financial or in-kind assistance.",
+    "benefit_amount": "₹7000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH010",
+    "scheme_name": "Government Scheme 10 (Agriculture)",
+    "issuing_authority": "Ministry of Department 10",
+    "category": "Agriculture, Rural & Environment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 10 providing financial or in-kind assistance.",
+    "benefit_amount": "₹10000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH011",
+    "scheme_name": "Government Scheme 11 (Health & Wellness)",
+    "issuing_authority": "Ministry of Department 11",
+    "category": "Health & Wellness",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 11 providing financial or in-kind assistance.",
+    "benefit_amount": "₹8000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH012",
+    "scheme_name": "Government Scheme 12 (Housing & Shelter)",
+    "issuing_authority": "Ministry of Department 12",
+    "category": "Housing & Shelter",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 12 providing financial or in-kind assistance.",
+    "benefit_amount": "₹6000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH013",
+    "scheme_name": "Government Scheme 13 (Banking)",
+    "issuing_authority": "Ministry of Department 13",
+    "category": "Banking, Financial Services & Insurance",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 13 providing financial or in-kind assistance.",
+    "benefit_amount": "₹9000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH014",
+    "scheme_name": "Government Scheme 14 (Skills & Employment)",
+    "issuing_authority": "Ministry of Department 14",
+    "category": "Skills & Employment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 14 providing financial or in-kind assistance.",
+    "benefit_amount": "₹6000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH015",
+    "scheme_name": "Government Scheme 15 (Social Welfare & Empowerment)",
+    "issuing_authority": "Ministry of Department 15",
+    "category": "Social Welfare & Empowerment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 15 providing financial or in-kind assistance.",
+    "benefit_amount": "₹1000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH016",
+    "scheme_name": "Government Scheme 16 (Women and Child)",
+    "issuing_authority": "Ministry of Department 16",
+    "category": "Women and Child",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 16 providing financial or in-kind assistance.",
+    "benefit_amount": "₹4000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH017",
+    "scheme_name": "Government Scheme 17 (Education & Learning)",
+    "issuing_authority": "Ministry of Department 17",
+    "category": "Education & Learning",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 17 providing financial or in-kind assistance.",
+    "benefit_amount": "₹2000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH018",
+    "scheme_name": "Government Scheme 18 (Business & Entrepreneurship)",
+    "issuing_authority": "Ministry of Department 18",
+    "category": "Business & Entrepreneurship",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 18 providing financial or in-kind assistance.",
+    "benefit_amount": "₹1000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH019",
+    "scheme_name": "Government Scheme 19 (Utility & Sanitation / Others)",
+    "issuing_authority": "Ministry of Department 19",
+    "category": "Utility & Sanitation / Others",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 19 providing financial or in-kind assistance.",
+    "benefit_amount": "₹9000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH020",
+    "scheme_name": "Government Scheme 20 (Agriculture)",
+    "issuing_authority": "Ministry of Department 20",
+    "category": "Agriculture, Rural & Environment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 20 providing financial or in-kind assistance.",
+    "benefit_amount": "₹1000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH021",
+    "scheme_name": "Government Scheme 21 (Health & Wellness)",
+    "issuing_authority": "Ministry of Department 21",
+    "category": "Health & Wellness",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 21 providing financial or in-kind assistance.",
+    "benefit_amount": "₹10000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH022",
+    "scheme_name": "Government Scheme 22 (Housing & Shelter)",
+    "issuing_authority": "Ministry of Department 22",
+    "category": "Housing & Shelter",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 22 providing financial or in-kind assistance.",
+    "benefit_amount": "₹2000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH023",
+    "scheme_name": "Government Scheme 23 (Banking)",
+    "issuing_authority": "Ministry of Department 23",
+    "category": "Banking, Financial Services & Insurance",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 23 providing financial or in-kind assistance.",
+    "benefit_amount": "₹8000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH024",
+    "scheme_name": "Government Scheme 24 (Skills & Employment)",
+    "issuing_authority": "Ministry of Department 24",
+    "category": "Skills & Employment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 24 providing financial or in-kind assistance.",
+    "benefit_amount": "₹4000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH025",
+    "scheme_name": "Government Scheme 25 (Social Welfare & Empowerment)",
+    "issuing_authority": "Ministry of Department 25",
+    "category": "Social Welfare & Empowerment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 25 providing financial or in-kind assistance.",
+    "benefit_amount": "₹7000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH026",
+    "scheme_name": "Government Scheme 26 (Women and Child)",
+    "issuing_authority": "Ministry of Department 26",
+    "category": "Women and Child",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 26 providing financial or in-kind assistance.",
+    "benefit_amount": "₹10000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH027",
+    "scheme_name": "Government Scheme 27 (Education & Learning)",
+    "issuing_authority": "Ministry of Department 27",
+    "category": "Education & Learning",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 27 providing financial or in-kind assistance.",
+    "benefit_amount": "₹3000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH028",
+    "scheme_name": "Government Scheme 28 (Business & Entrepreneurship)",
+    "issuing_authority": "Ministry of Department 28",
+    "category": "Business & Entrepreneurship",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 28 providing financial or in-kind assistance.",
+    "benefit_amount": "₹1000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH029",
+    "scheme_name": "Government Scheme 29 (Utility & Sanitation / Others)",
+    "issuing_authority": "Ministry of Department 29",
+    "category": "Utility & Sanitation / Others",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 29 providing financial or in-kind assistance.",
+    "benefit_amount": "₹2000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH030",
+    "scheme_name": "Government Scheme 30 (Agriculture)",
+    "issuing_authority": "Ministry of Department 30",
+    "category": "Agriculture, Rural & Environment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 30 providing financial or in-kind assistance.",
+    "benefit_amount": "₹10000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH031",
+    "scheme_name": "Government Scheme 31 (Health & Wellness)",
+    "issuing_authority": "Ministry of Department 31",
+    "category": "Health & Wellness",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 31 providing financial or in-kind assistance.",
+    "benefit_amount": "₹10000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH032",
+    "scheme_name": "Government Scheme 32 (Housing & Shelter)",
+    "issuing_authority": "Ministry of Department 32",
+    "category": "Housing & Shelter",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 32 providing financial or in-kind assistance.",
+    "benefit_amount": "₹4000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH033",
+    "scheme_name": "Government Scheme 33 (Banking)",
+    "issuing_authority": "Ministry of Department 33",
+    "category": "Banking, Financial Services & Insurance",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 33 providing financial or in-kind assistance.",
+    "benefit_amount": "₹9000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH034",
+    "scheme_name": "Government Scheme 34 (Skills & Employment)",
+    "issuing_authority": "Ministry of Department 34",
+    "category": "Skills & Employment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 34 providing financial or in-kind assistance.",
+    "benefit_amount": "₹4000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH035",
+    "scheme_name": "Government Scheme 35 (Social Welfare & Empowerment)",
+    "issuing_authority": "Ministry of Department 35",
+    "category": "Social Welfare & Empowerment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 35 providing financial or in-kind assistance.",
+    "benefit_amount": "₹9000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH036",
+    "scheme_name": "Government Scheme 36 (Women and Child)",
+    "issuing_authority": "Ministry of Department 36",
+    "category": "Women and Child",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 36 providing financial or in-kind assistance.",
+    "benefit_amount": "₹9000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH037",
+    "scheme_name": "Government Scheme 37 (Education & Learning)",
+    "issuing_authority": "Ministry of Department 37",
+    "category": "Education & Learning",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 37 providing financial or in-kind assistance.",
+    "benefit_amount": "₹2000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH038",
+    "scheme_name": "Government Scheme 38 (Business & Entrepreneurship)",
+    "issuing_authority": "Ministry of Department 38",
+    "category": "Business & Entrepreneurship",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 38 providing financial or in-kind assistance.",
+    "benefit_amount": "₹2000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH039",
+    "scheme_name": "Government Scheme 39 (Utility & Sanitation / Others)",
+    "issuing_authority": "Ministry of Department 39",
+    "category": "Utility & Sanitation / Others",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 39 providing financial or in-kind assistance.",
+    "benefit_amount": "₹7000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH040",
+    "scheme_name": "Government Scheme 40 (Agriculture)",
+    "issuing_authority": "Ministry of Department 40",
+    "category": "Agriculture, Rural & Environment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 40 providing financial or in-kind assistance.",
+    "benefit_amount": "₹4000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH041",
+    "scheme_name": "Government Scheme 41 (Health & Wellness)",
+    "issuing_authority": "Ministry of Department 41",
+    "category": "Health & Wellness",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 41 providing financial or in-kind assistance.",
+    "benefit_amount": "₹7000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH042",
+    "scheme_name": "Government Scheme 42 (Housing & Shelter)",
+    "issuing_authority": "Ministry of Department 42",
+    "category": "Housing & Shelter",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 42 providing financial or in-kind assistance.",
+    "benefit_amount": "₹9000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH043",
+    "scheme_name": "Government Scheme 43 (Banking)",
+    "issuing_authority": "Ministry of Department 43",
+    "category": "Banking, Financial Services & Insurance",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 43 providing financial or in-kind assistance.",
+    "benefit_amount": "₹6000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH044",
+    "scheme_name": "Government Scheme 44 (Skills & Employment)",
+    "issuing_authority": "Ministry of Department 44",
+    "category": "Skills & Employment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 44 providing financial or in-kind assistance.",
+    "benefit_amount": "₹1000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH045",
+    "scheme_name": "Government Scheme 45 (Social Welfare & Empowerment)",
+    "issuing_authority": "Ministry of Department 45",
+    "category": "Social Welfare & Empowerment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 45 providing financial or in-kind assistance.",
+    "benefit_amount": "₹6000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH046",
+    "scheme_name": "Government Scheme 46 (Women and Child)",
+    "issuing_authority": "Ministry of Department 46",
+    "category": "Women and Child",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 46 providing financial or in-kind assistance.",
+    "benefit_amount": "₹2000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH047",
+    "scheme_name": "Government Scheme 47 (Education & Learning)",
+    "issuing_authority": "Ministry of Department 47",
+    "category": "Education & Learning",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 47 providing financial or in-kind assistance.",
+    "benefit_amount": "₹8000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH048",
+    "scheme_name": "Government Scheme 48 (Business & Entrepreneurship)",
+    "issuing_authority": "Ministry of Department 48",
+    "category": "Business & Entrepreneurship",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 48 providing financial or in-kind assistance.",
+    "benefit_amount": "₹10000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH049",
+    "scheme_name": "Government Scheme 49 (Utility & Sanitation / Others)",
+    "issuing_authority": "Ministry of Department 49",
+    "category": "Utility & Sanitation / Others",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 49 providing financial or in-kind assistance.",
+    "benefit_amount": "₹1000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH050",
+    "scheme_name": "Government Scheme 50 (Agriculture)",
+    "issuing_authority": "Ministry of Department 50",
+    "category": "Agriculture, Rural & Environment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 50 providing financial or in-kind assistance.",
+    "benefit_amount": "₹3000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH051",
+    "scheme_name": "Government Scheme 51 (Health & Wellness)",
+    "issuing_authority": "Ministry of Department 51",
+    "category": "Health & Wellness",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 51 providing financial or in-kind assistance.",
+    "benefit_amount": "₹6000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH052",
+    "scheme_name": "Government Scheme 52 (Housing & Shelter)",
+    "issuing_authority": "Ministry of Department 52",
+    "category": "Housing & Shelter",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 52 providing financial or in-kind assistance.",
+    "benefit_amount": "₹9000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH053",
+    "scheme_name": "Government Scheme 53 (Banking)",
+    "issuing_authority": "Ministry of Department 53",
+    "category": "Banking, Financial Services & Insurance",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 53 providing financial or in-kind assistance.",
+    "benefit_amount": "₹10000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH054",
+    "scheme_name": "Government Scheme 54 (Skills & Employment)",
+    "issuing_authority": "Ministry of Department 54",
+    "category": "Skills & Employment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 54 providing financial or in-kind assistance.",
+    "benefit_amount": "₹1000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH055",
+    "scheme_name": "Government Scheme 55 (Social Welfare & Empowerment)",
+    "issuing_authority": "Ministry of Department 55",
+    "category": "Social Welfare & Empowerment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 55 providing financial or in-kind assistance.",
+    "benefit_amount": "₹10000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH056",
+    "scheme_name": "Government Scheme 56 (Women and Child)",
+    "issuing_authority": "Ministry of Department 56",
+    "category": "Women and Child",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 56 providing financial or in-kind assistance.",
+    "benefit_amount": "₹3000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH057",
+    "scheme_name": "Government Scheme 57 (Education & Learning)",
+    "issuing_authority": "Ministry of Department 57",
+    "category": "Education & Learning",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 57 providing financial or in-kind assistance.",
+    "benefit_amount": "₹9000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH058",
+    "scheme_name": "Government Scheme 58 (Business & Entrepreneurship)",
+    "issuing_authority": "Ministry of Department 58",
+    "category": "Business & Entrepreneurship",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 58 providing financial or in-kind assistance.",
+    "benefit_amount": "₹8000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH059",
+    "scheme_name": "Government Scheme 59 (Utility & Sanitation / Others)",
+    "issuing_authority": "Ministry of Department 59",
+    "category": "Utility & Sanitation / Others",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 59 providing financial or in-kind assistance.",
+    "benefit_amount": "₹10000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH060",
+    "scheme_name": "Government Scheme 60 (Agriculture)",
+    "issuing_authority": "Ministry of Department 60",
+    "category": "Agriculture, Rural & Environment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 60 providing financial or in-kind assistance.",
+    "benefit_amount": "₹5000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH061",
+    "scheme_name": "Government Scheme 61 (Health & Wellness)",
+    "issuing_authority": "Ministry of Department 61",
+    "category": "Health & Wellness",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 61 providing financial or in-kind assistance.",
+    "benefit_amount": "₹9000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH062",
+    "scheme_name": "Government Scheme 62 (Housing & Shelter)",
+    "issuing_authority": "Ministry of Department 62",
+    "category": "Housing & Shelter",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 62 providing financial or in-kind assistance.",
+    "benefit_amount": "₹7000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH063",
+    "scheme_name": "Government Scheme 63 (Banking)",
+    "issuing_authority": "Ministry of Department 63",
+    "category": "Banking, Financial Services & Insurance",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 63 providing financial or in-kind assistance.",
+    "benefit_amount": "₹7000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH064",
+    "scheme_name": "Government Scheme 64 (Skills & Employment)",
+    "issuing_authority": "Ministry of Department 64",
+    "category": "Skills & Employment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 64 providing financial or in-kind assistance.",
+    "benefit_amount": "₹9000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH065",
+    "scheme_name": "Government Scheme 65 (Social Welfare & Empowerment)",
+    "issuing_authority": "Ministry of Department 65",
+    "category": "Social Welfare & Empowerment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 65 providing financial or in-kind assistance.",
+    "benefit_amount": "₹6000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH066",
+    "scheme_name": "Government Scheme 66 (Women and Child)",
+    "issuing_authority": "Ministry of Department 66",
+    "category": "Women and Child",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 66 providing financial or in-kind assistance.",
+    "benefit_amount": "₹7000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH067",
+    "scheme_name": "Government Scheme 67 (Education & Learning)",
+    "issuing_authority": "Ministry of Department 67",
+    "category": "Education & Learning",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 67 providing financial or in-kind assistance.",
+    "benefit_amount": "₹10000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH068",
+    "scheme_name": "Government Scheme 68 (Business & Entrepreneurship)",
+    "issuing_authority": "Ministry of Department 68",
+    "category": "Business & Entrepreneurship",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 68 providing financial or in-kind assistance.",
+    "benefit_amount": "₹1000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH069",
+    "scheme_name": "Government Scheme 69 (Utility & Sanitation / Others)",
+    "issuing_authority": "Ministry of Department 69",
+    "category": "Utility & Sanitation / Others",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 69 providing financial or in-kind assistance.",
+    "benefit_amount": "₹7000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH070",
+    "scheme_name": "Government Scheme 70 (Agriculture)",
+    "issuing_authority": "Ministry of Department 70",
+    "category": "Agriculture, Rural & Environment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 70 providing financial or in-kind assistance.",
+    "benefit_amount": "₹5000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH071",
+    "scheme_name": "Government Scheme 71 (Health & Wellness)",
+    "issuing_authority": "Ministry of Department 71",
+    "category": "Health & Wellness",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 71 providing financial or in-kind assistance.",
+    "benefit_amount": "₹2000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH072",
+    "scheme_name": "Government Scheme 72 (Housing & Shelter)",
+    "issuing_authority": "Ministry of Department 72",
+    "category": "Housing & Shelter",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 72 providing financial or in-kind assistance.",
+    "benefit_amount": "₹2000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH073",
+    "scheme_name": "Government Scheme 73 (Banking)",
+    "issuing_authority": "Ministry of Department 73",
+    "category": "Banking, Financial Services & Insurance",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 73 providing financial or in-kind assistance.",
+    "benefit_amount": "₹9000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH074",
+    "scheme_name": "Government Scheme 74 (Skills & Employment)",
+    "issuing_authority": "Ministry of Department 74",
+    "category": "Skills & Employment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 74 providing financial or in-kind assistance.",
+    "benefit_amount": "₹8000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH075",
+    "scheme_name": "Government Scheme 75 (Social Welfare & Empowerment)",
+    "issuing_authority": "Ministry of Department 75",
+    "category": "Social Welfare & Empowerment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 75 providing financial or in-kind assistance.",
+    "benefit_amount": "₹2000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH076",
+    "scheme_name": "Government Scheme 76 (Women and Child)",
+    "issuing_authority": "Ministry of Department 76",
+    "category": "Women and Child",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 76 providing financial or in-kind assistance.",
+    "benefit_amount": "₹5000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH077",
+    "scheme_name": "Government Scheme 77 (Education & Learning)",
+    "issuing_authority": "Ministry of Department 77",
+    "category": "Education & Learning",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 77 providing financial or in-kind assistance.",
+    "benefit_amount": "₹6000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH078",
+    "scheme_name": "Government Scheme 78 (Business & Entrepreneurship)",
+    "issuing_authority": "Ministry of Department 78",
+    "category": "Business & Entrepreneurship",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 78 providing financial or in-kind assistance.",
+    "benefit_amount": "₹10000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH079",
+    "scheme_name": "Government Scheme 79 (Utility & Sanitation / Others)",
+    "issuing_authority": "Ministry of Department 79",
+    "category": "Utility & Sanitation / Others",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 79 providing financial or in-kind assistance.",
+    "benefit_amount": "₹6000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH080",
+    "scheme_name": "Government Scheme 80 (Agriculture)",
+    "issuing_authority": "Ministry of Department 80",
+    "category": "Agriculture, Rural & Environment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 80 providing financial or in-kind assistance.",
+    "benefit_amount": "₹5000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH081",
+    "scheme_name": "Government Scheme 81 (Health & Wellness)",
+    "issuing_authority": "Ministry of Department 81",
+    "category": "Health & Wellness",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 81 providing financial or in-kind assistance.",
+    "benefit_amount": "₹3000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH082",
+    "scheme_name": "Government Scheme 82 (Housing & Shelter)",
+    "issuing_authority": "Ministry of Department 82",
+    "category": "Housing & Shelter",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 82 providing financial or in-kind assistance.",
+    "benefit_amount": "₹2000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH083",
+    "scheme_name": "Government Scheme 83 (Banking)",
+    "issuing_authority": "Ministry of Department 83",
+    "category": "Banking, Financial Services & Insurance",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 83 providing financial or in-kind assistance.",
+    "benefit_amount": "₹8000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH084",
+    "scheme_name": "Government Scheme 84 (Skills & Employment)",
+    "issuing_authority": "Ministry of Department 84",
+    "category": "Skills & Employment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 84 providing financial or in-kind assistance.",
+    "benefit_amount": "₹9000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH085",
+    "scheme_name": "Government Scheme 85 (Social Welfare & Empowerment)",
+    "issuing_authority": "Ministry of Department 85",
+    "category": "Social Welfare & Empowerment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 85 providing financial or in-kind assistance.",
+    "benefit_amount": "₹4000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH086",
+    "scheme_name": "Government Scheme 86 (Women and Child)",
+    "issuing_authority": "Ministry of Department 86",
+    "category": "Women and Child",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 86 providing financial or in-kind assistance.",
+    "benefit_amount": "₹6000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH087",
+    "scheme_name": "Government Scheme 87 (Education & Learning)",
+    "issuing_authority": "Ministry of Department 87",
+    "category": "Education & Learning",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 87 providing financial or in-kind assistance.",
+    "benefit_amount": "₹8000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH088",
+    "scheme_name": "Government Scheme 88 (Business & Entrepreneurship)",
+    "issuing_authority": "Ministry of Department 88",
+    "category": "Business & Entrepreneurship",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 88 providing financial or in-kind assistance.",
+    "benefit_amount": "₹1000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH089",
+    "scheme_name": "Government Scheme 89 (Utility & Sanitation / Others)",
+    "issuing_authority": "Ministry of Department 89",
+    "category": "Utility & Sanitation / Others",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 89 providing financial or in-kind assistance.",
+    "benefit_amount": "₹7000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH090",
+    "scheme_name": "Government Scheme 90 (Agriculture)",
+    "issuing_authority": "Ministry of Department 90",
+    "category": "Agriculture, Rural & Environment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 90 providing financial or in-kind assistance.",
+    "benefit_amount": "₹9000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH091",
+    "scheme_name": "Government Scheme 91 (Health & Wellness)",
+    "issuing_authority": "Ministry of Department 91",
+    "category": "Health & Wellness",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 91 providing financial or in-kind assistance.",
+    "benefit_amount": "₹6000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH092",
+    "scheme_name": "Government Scheme 92 (Housing & Shelter)",
+    "issuing_authority": "Ministry of Department 92",
+    "category": "Housing & Shelter",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 92 providing financial or in-kind assistance.",
+    "benefit_amount": "₹10000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH093",
+    "scheme_name": "Government Scheme 93 (Banking)",
+    "issuing_authority": "Ministry of Department 93",
+    "category": "Banking, Financial Services & Insurance",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 93 providing financial or in-kind assistance.",
+    "benefit_amount": "₹3000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH094",
+    "scheme_name": "Government Scheme 94 (Skills & Employment)",
+    "issuing_authority": "Ministry of Department 94",
+    "category": "Skills & Employment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 94 providing financial or in-kind assistance.",
+    "benefit_amount": "₹5000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH095",
+    "scheme_name": "Government Scheme 95 (Social Welfare & Empowerment)",
+    "issuing_authority": "Ministry of Department 95",
+    "category": "Social Welfare & Empowerment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 95 providing financial or in-kind assistance.",
+    "benefit_amount": "₹8000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH096",
+    "scheme_name": "Government Scheme 96 (Women and Child)",
+    "issuing_authority": "Ministry of Department 96",
+    "category": "Women and Child",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 96 providing financial or in-kind assistance.",
+    "benefit_amount": "₹3000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH097",
+    "scheme_name": "Government Scheme 97 (Education & Learning)",
+    "issuing_authority": "Ministry of Department 97",
+    "category": "Education & Learning",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 97 providing financial or in-kind assistance.",
+    "benefit_amount": "₹9000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH098",
+    "scheme_name": "Government Scheme 98 (Business & Entrepreneurship)",
+    "issuing_authority": "Ministry of Department 98",
+    "category": "Business & Entrepreneurship",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 98 providing financial or in-kind assistance.",
+    "benefit_amount": "₹4000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH099",
+    "scheme_name": "Government Scheme 99 (Utility & Sanitation / Others)",
+    "issuing_authority": "Ministry of Department 99",
+    "category": "Utility & Sanitation / Others",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 99 providing financial or in-kind assistance.",
+    "benefit_amount": "₹10000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  },
+  {
+    "scheme_id": "SCH100",
+    "scheme_name": "Government Scheme 100 (Agriculture)",
+    "issuing_authority": "Ministry of Department 100",
+    "category": "Agriculture, Rural & Environment",
+    "sub_category": "General Welfare",
+    "benefit_description": "This is a mock benefit description for scheme 100 providing financial or in-kind assistance.",
+    "benefit_amount": "₹6000",
+    "is_active": true,
+    "source_document_url": "https://www.myscheme.gov.in/",
+    "official_portal": "https://www.myscheme.gov.in/",
+    "last_updated": "2026-09",
+    "target_beneficiaries": "General Citizens",
+    "eligibility_rules": [
+      {
+        "attribute_name": "age",
+        "operator": ">=",
+        "value": "18",
+        "clause_reference": "Basic Criteria",
+        "notes": "Must be an adult"
+      },
+      {
+        "attribute_name": "family_income",
+        "operator": "<=",
+        "value": "500000",
+        "clause_reference": "Income Criteria",
+        "notes": "Income should not exceed 5 Lakhs"
+      }
+    ],
+    "key_documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "application_mode": "Online / CSC",
+    "conflict_notes": "None"
+  }
+]
