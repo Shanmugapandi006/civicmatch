@@ -11,6 +11,8 @@ import seed_schemes
 
 Base.metadata.create_all(bind=db_engine)
 
+from fastapi.middleware.cors import CORSMiddleware
+
 # Seed the database if it's empty
 db = SessionLocal()
 if db.query(models.Scheme).count() == 0:
@@ -19,6 +21,14 @@ if db.query(models.Scheme).count() == 0:
 db.close()
 
 app = FastAPI(title="SchemeSetu API", version="1.0.0")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allows all origins
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all methods
+    allow_headers=["*"],  # Allows all headers
+)
 
 @app.post("/api/v1/interview/start")
 def start_interview(db: Session = Depends(get_db)):
