@@ -23,10 +23,27 @@ export default function InterviewPage() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
-    // Mock processing time
-    setTimeout(() => {
-      router.push("/results")
-    }, 500)
+    
+    // Create the profile object matching the backend schema
+    const profile = {
+      age: 30, // Default age as form doesn't have it
+      gender: formData.gender.toLowerCase() || "other",
+      occupation: formData.occupation.toLowerCase() || "unemployed",
+      family_income: parseInt(formData.annualIncome) || 0,
+      caste_category: formData.casteCategory.toLowerCase() || "general",
+      land_holding_acres: 0.0,
+      bpl_status: false,
+      secc_2011_status: false,
+      housing_status: "pucca",
+      lpg_connection: false,
+      bank_account: true,
+      income_tax_payee: false,
+      citizenship: "indian"
+    }
+
+    localStorage.setItem("citizenProfile", JSON.stringify(profile))
+    
+    router.push("/results")
   }
 
   return (
